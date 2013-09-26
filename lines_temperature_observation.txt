@@ -1,0 +1,4 @@
+      3 temperature_observations_Iqaluit.txt
+      2 temperature_observations_StJohns.txt
+      5 temperature_observations_Vancouver.txt
+     10 total
